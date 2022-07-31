@@ -5,3 +5,4 @@ Jupyter Notebook(anaconda3)
 + Data collection
 + Flow control
 > Next add Data Control.
+> Exercices
